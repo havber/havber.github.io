@@ -4,7 +4,7 @@
   <title><![CDATA[Havber]]></title>
   <link href="http://havber.github.io/atom.xml" rel="self"/>
   <link href="http://havber.github.io/"/>
-  <updated>2013-11-04T11:45:25+01:00</updated>
+  <updated>2013-11-04T11:54:09+01:00</updated>
   <id>http://havber.github.io/</id>
   <author>
     <name><![CDATA[Håvard Solvik Bertelsen]]></name>
@@ -18,7 +18,7 @@
     <link href="http://havber.github.io/blog/2013/11/04/my-first-post/"/>
     <updated>2013-11-04T11:30:00+01:00</updated>
     <id>http://havber.github.io/blog/2013/11/04/my-first-post</id>
-    <content type="html"><![CDATA[<h1>My First Post</h1>
+    <content type="html"><![CDATA[<p>This is a test</p>
 
 <figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 </pre></td><td class='code'><pre><code class='javascript'><span class='line'><span class="kd">var</span> <span class="nx">test</span> <span class="o">=</span> <span class="mi">1</span><span class="p">;</span>
